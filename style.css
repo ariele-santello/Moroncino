@@ -16,7 +16,7 @@ h1, h2 {
 
 sup {
   font-weight: bold;
-  font-size: 83%;  
+  font-size: 83%;
   letter-spacing: 0.3%;
 }
 
@@ -136,8 +136,8 @@ button a:hover {
   float: center;
   text-align: justify;
   font-weight: 200;
-  font-size: 90%; 
-  padding-left: 9%; 
+  font-size: 90%;
+  padding-left: 9%;
 }
 
 /* On screens that are less than 700px wide, make the sidebar into a topbar */
