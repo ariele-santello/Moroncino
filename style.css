@@ -16,7 +16,7 @@ h1, h2 {
 
 sup {
   font-weight: bold;
-  font-size: 83%;
+  font-size: 83%;  
   letter-spacing: 0.3%;
 }
 
@@ -50,8 +50,6 @@ sup {
   position: relative;
   right: 40%;
 }
-
-
 #back{
   min-width: 5%;
   background-color: #005a96;
@@ -59,7 +57,6 @@ sup {
   border-radius: 5px 5px 5px 5px;
   padding: 9px;
   font-size: 1rem;
-/*  font-weight: bold; */
 }
 
 button a {
@@ -135,191 +132,13 @@ button a:hover {
   font-weight: bold;
 }
 
-#p-15 {
+.extratext {
   float: center;
   text-align: justify;
-  font-weight: 100;
-  font-size: 90%;
-  padding-left: 9%;
+  font-weight: 200;
+  font-size: 90%; 
+  padding-left: 9%; 
 }
-
-#p-17 {
-  float: center;
-  text-align: justify;
-  font-weight: 100;
-  font-size: 90%;
-  padding-left: 9%;
-}
-
-#p-21 {
-  float: center;
-  text-align: justify;
-  font-weight: 100;
-  font-size: 90%;
-  padding-left: 9%;
-}
-
-#p-47 {
-  float: center;
-  text-align: justify;
-  font-weight: 100;
-  font-size: 90%;
-  padding-left: 9%;
-}
-
-#p-49 {
-  float: center;
-  text-align: justify;
-  font-weight: 100;
-  font-size: 90%;
-  padding-left: 9%;
-
-}
-
-#p-60 {
-  float: center;
-  text-align: justify;
-  font-weight: 100;
-  font-size: 90%;
-  padding-left: 9%;
-}
-
-#p-64 {
-  float: center;
-  text-align: justify;
-  font-weight: 100;
-  font-size: 90%;
-  padding-left: 9%;
-}
-
-#p-67 {
-  float: center;
-  text-align: justify;
-  font-weight: 100;
-  font-size: 90%;
-  padding-left: 9%;
-}
-
-#p-72 {
-  float: center;
-  text-align: justify;
-  font-weight: 100;
-  font-size: 90%;
-  padding-left: 9%;
-}
-
-#p-81 {
-  float: center;
-  text-align: justify;
-  font-weight: 100;
-  font-size: 90%;
-  padding-left: 9%;
-}
-#p-84 {
-  float: center;
-  text-align: justify;
-  font-weight: 100;
-  font-size: 90%;
-  padding-left: 9%;
-}
-
-#p-3-a {
-  float: center;
-  text-align: justify;
-  font-weight: 100;
-  font-size: 90%;
-  padding-left: 9%;
-}
-
-#p-6-a {
-  float: center;
-  text-align: justify;
-  font-weight: 100;
-  font-size: 90%;
-  padding-left: 9%;
-}
-
-#p-36-a {
-  float: center;
-  text-align: justify;
-  font-weight: 100;
-  font-size: 90%;
-  padding-left: 9%;
-}
-
-#p-45-a {
-  float: center;
-  text-align: justify;
-  font-weight: 100;
-  font-size: 90%;
-  padding-left: 9%;
-}
-
-#p-48-a {
-  float: center;
-  text-align: justify;
-  font-weight: 100;
-  font-size: 90%;
-  padding-left: 9%;
-}
-
-#p-50-a {
-  float: center;
-  text-align: justify;
-  font-weight: 100;
-  font-size: 90%;
-  padding-left: 9%;
-}
-
-#p-54-a {
-  float: center;
-  text-align: justify;
-  font-weight: 100;
-  font-size: 90%;
-  padding-left: 9%;
-}
-
-#p-76-a {
-  float: center;
-  text-align: justify;
-  font-weight: 100;
-  font-size: 90%;
-  padding-left: 9%;
-}
-
-#p-78-a {
-  float: center;
-  text-align: justify;
-  font-weight: 100;
-  font-size: 90%;
-  padding-left: 9%;
-}
-
-#p-86-a {
-  float: center;
-  text-align: justify;
-  font-weight: 100;
-  font-size: 90%;
-  padding-left: 9%;
-}
-
-#p-89-a {
-  float: center;
-  text-align: justify;
-  font-weight: 100;
-  font-size: 90%;
-  padding-left: 9%;
-}
-
-
-
-
-
-
-
-
-
-
 
 /* On screens that are less than 700px wide, make the sidebar into a topbar */
 @media screen and (max-width: 700px) {
@@ -385,7 +204,7 @@ button a:hover {
     padding-right: 20;
     padding-left: 0;
     display: block;
-    padding-top: 250px;
+    padding-top: 310px;
     /*padding right: 10; */
   }
 
@@ -455,7 +274,6 @@ button a:hover {
     }
 
 }
-
 
 
 
