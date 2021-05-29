@@ -121,12 +121,17 @@ sup {
         position: absolute;
         top: 0;
         right: 0;
+} */
+
+/*.indi {
+  margin-bottom: 10; 
+
+}*/
+
+#sidebarCollapse {
+  background-color:#005a96; 
 }
 
-.indi {
-  position: relative;
-  right: 40%;
-}
 #back{
   min-width: 5%;
   background-color: #005a96;
@@ -134,7 +139,7 @@ sup {
   border-radius: 5px 5px 5px 5px;
   padding: 9px;
   font-size: 1rem;
-} */
+} 
 
 button a {
   color:white;
